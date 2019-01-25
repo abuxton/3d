@@ -5,3 +5,6 @@ ____
 
 repo for my projects and edits regarding 3d printed objects. 
 the folder si saved on disc in Dropbox, the files featured here are my gcode and notes/edits tools for storage. 
+
+### notes
+the repo is managed in Visual studio code, so the *.code-workspace contains refernce to usful plugins for Cura and gcode.
